@@ -11,7 +11,7 @@ Contains 10 various CNN models trained on different parameters and differernt Ar
 
 The Weights are stored in the following format:
 
-model _i___j_ 
+model _i_ _ _j_ 
 
 where _i_ represents the model number of the 10 various ones
 where _j_ represents the number number of the _i_ th model.  _j_ ranges from 1-2 
