@@ -1,7 +1,7 @@
 # IML_CNN
 
-This Directory contains the various methods to train Convolution Neural Network models and their weights stored in their respective files
-This directory is structured to hold 3 different folders for the models trained to target specific attributes of Gender, Emotions and Age
+This Directory contains the various methods to train Convolution Neural Network models and their weights stored in their respective files.
+This Directory is structured to hold 3 different folders for the models trained to target specific attributes of Gender, Emotions and Age
 
 ## Models
 
